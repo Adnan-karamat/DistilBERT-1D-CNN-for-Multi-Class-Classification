@@ -40,6 +40,4 @@ Classify user posts from Reddit into one of 6 mental-health or emotion-related c
 ## 🛠️ Dependencies
 - `tensorflow`, `transformers`, `scikit-learn`, `numpy`, `pandas`, `matplotlib`
 
-## 📌 Note
-- ❗ **BiLSTM is *not used*** — only CNN + pooling is added after DistilBERT.
-- All preprocessing and tokenization handled via Hugging Face `transformers`.
+
